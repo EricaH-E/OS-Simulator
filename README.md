@@ -31,4 +31,4 @@ PROGRAM IS ALSO SPACE SENSITIVE IN ADDITION TO CASE SENSITIVE
 **S m**     Shows the state of memory. 
 
 
-**The following project is a class project following the professors instructions as to  what the program should do when given the commands above. The professor gave instruction on how it should be implemented**
+**The following project is a class project following the professors instructions as to  what the program should do when given the commands above. The professor gave no instruction on how it should be implemented**
