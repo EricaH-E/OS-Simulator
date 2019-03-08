@@ -29,3 +29,6 @@ PROGRAM IS ALSO SPACE SENSITIVE IN ADDITION TO CASE SENSITIVE
 **S i**     Shows what processes are currently using the hard disks and what processes are waiting to use them. 
 
 **S m**     Shows the state of memory. 
+
+
+** The following project is a class project following the professors instructions as to  what the program should do when given the commands above. The professor gave instruction on how it should be implemented**
