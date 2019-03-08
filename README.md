@@ -20,7 +20,7 @@ PROGRAM IS ALSO SPACE SENSITIVE IN ADDITION TO CASE SENSITIVE
 
 **d number file_name**      The process that currently uses the CPU requests the hard disk #number. It wants to read or write file file_name.
 
-**D number**   The hard disk #number has finished the work for one process.
+**D number**    The hard disk #number has finished the work for one process.
 
 **m address**   The process that is currently using the CPU requests a memory operation for the logical address.
 
@@ -28,4 +28,4 @@ PROGRAM IS ALSO SPACE SENSITIVE IN ADDITION TO CASE SENSITIVE
 
 **S i**     Shows what processes are currently using the hard disks and what processes are waiting to use them. 
 
-**S m**   Shows the state of memory. 
+**S m**     Shows the state of memory. 
